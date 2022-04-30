@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital": false,
+      "username": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital": false,
+      "username": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital": false,
+      "id": 3
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital": false,
+      "id": 4
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital": false,
+      "username": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "",
+      "marital": false,
+      "id": 6
+    }
+  ]
+}
